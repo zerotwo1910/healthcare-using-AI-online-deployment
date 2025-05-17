@@ -140,7 +140,6 @@ graph TD
 - **Model Behavior**:
   - Gradient Boosting achieves highest accuracy and recall
   - Feature importance rankings align with established cardiovascular risk factors
-  - Neural Network shows excellent generalization without overfitting
 
 ### Setup Instructions
 
@@ -229,8 +228,6 @@ The application generates the following visualizations:
 - **Correlation Matrix**: Heatmap of feature correlations (thresholded for large datasets).
 - **Patient Distribution**: Bar chart comparing actual vs. predicted patient outcomes.
 
-Visualizations are saved as PNG files in the `static/images` directory and served dynamically.
-
 ## Limitations
 
 - **Educational Use Only**: The predictions are not intended for clinical use.
@@ -253,10 +250,13 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgements
 
-- [Kaggle](https://www.kaggle.com) for providing the dataset
-- Sri Ramanujar Engineering College for project guidance and support
-- The open-source community for the excellent libraries and tools used(pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, tensorflow, keras)
-- Special Mention : tkinter
+- **Open-Source Community**: For developing and maintaining the powerful libraries used in this project, including Flask, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, and Seaborn. These tools form the backbone of the application's functionality and visualizations.
+- **Dataset Contributors**: To the creators and maintainers of the heart disease dataset (heart.csv) sourced from Kaggle. Special thanks to the Kaggle community for providing accessible and well-documented datasets that enable projects like this one.
+- **Tailwind CSS Team**: For providing an intuitive and responsive CSS framework that enhances the user interface of the application.
+- **Flask Community**: For their extensive documentation, tutorials, and forums that guided the development of the web application framework.
+- **Machine Learning Community**: For the wealth of knowledge shared through blogs, research papers, and forums that inspired the implementation of machine learning models and visualization techniques.
+- **GitHub Community**: For providing a platform to host, share, and collaborate on this project, enabling version control and community feedback.
+- **Testers and Feedback Providers**: To friends, colleagues, or peers who tested the application, provided valuable feedback, and helped improve its usability and functionality.
 
 ## Citation
 
