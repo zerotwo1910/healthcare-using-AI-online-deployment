@@ -19,6 +19,13 @@ The **Healthcare AI Platform** is a web-based application designed to predict he
 
 This project is intended for **educational purposes only** and is not a substitute for professional medical advice, diagnosis, or treatment.
 
+## Online Deployment
+
+**Link**
+   ```bash
+   https://healthcare-online-deploment.onrender.com
+   ```
+
 ## Features
 
 - **Heart Disease Prediction**: Input patient data through a user-friendly form to predict the likelihood of heart disease, with probability scores and clear result presentation.
