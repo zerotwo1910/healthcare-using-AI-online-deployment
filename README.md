@@ -217,6 +217,14 @@ The platform trains three models and selects the best-performing one based on te
 
 The models are trained on scaled features, with categorical variables one-hot encoded and missing values imputed (median for numeric, mode for categorical).
 
+## UI
+| Tabs | Screenshot |
+|-------------|------------|
+| Home | ![Home](screenshots/home.png) |
+| Dataset | ![Dataset](screenshots/dataset.png) |
+| Model Insights | ![Model Insights](screenshots/model_insights.png) |
+| Patient Analytics | ![Patient Analytics](screenshots/patient_analytics.png) |
+
 ## Visualizations
 
 The application generates the following visualizations:
