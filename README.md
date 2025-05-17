@@ -245,9 +245,9 @@ The application generates the following visualizations:
 - **Binary Classification**: The current implementation assumes a binary target variable.
 - **Visualization Limits**: Some visualizations (e.g., ROC Curve) are only generated for binary classification tasks.
 
-## Team Members & Contributions
+## Team Members & Roles
 
-| Name | GitHub | Roles |
+| Name | GitHub | Role |
 |------|--------|---------------|
 | Sriram Kumar K | [@zerotwo1910](https://github.com/zerotwo1910) | Lead Developer and Machine Learning Engineer |
 | Subasree M | [@suba-sree](https://github.com/suba-sree) | Front-End Developer and UI/UX Designer |
