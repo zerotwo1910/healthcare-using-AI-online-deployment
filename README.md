@@ -220,13 +220,15 @@ The models are trained on scaled features, with categorical variables one-hot en
 ## Visualizations
 
 The application generates the following visualizations:
-- **Model Metrics**: Bar chart of Accuracy, F1 Score, Precision, Recall, and AUC-ROC.
-- **ROC Curve**: Receiver Operating Characteristic curve for binary classification performance.
-- **Precision-Recall Curve**: Trade-off between precision and recall.
-- **Confusion Matrix**: Heatmap showing true vs. predicted labels.
-- **Feature Importance**: Bar chart of feature contributions to predictions.
-- **Correlation Matrix**: Heatmap of feature correlations (thresholded for large datasets).
-- **Patient Distribution**: Bar chart comparing actual vs. predicted patient outcomes.
+| Visualization | Screenshot |
+|-------------|------------|
+| Model Metrics | ![Main Interface](Screenshots/main_interface.png) |
+| ROC Curve | ![EDA Tab](Screenshots/eda_tab.png) |
+| Precision-Recall Curve | ![Preprocess & Data Modeling](Screenshots/preprocess_and_datamodeling.png) |
+| Confusion Matrix | ![ROC Visual](Screenshots/roc_visualization.png) |
+| Feature Importance | ![Confusion Matrix](Screenshots/confusion_matrix.png) |
+| Correlation Matrix | ![Correlation Matrix](Screenshots/correlation_martix.png) |
+| Patient Distribution | ![Feature Importance](Screenshots/feature_importance.png) |
 
 ## Limitations
 
@@ -237,12 +239,12 @@ The application generates the following visualizations:
 
 ## Team Members & Contributions
 
-| Name | GitHub | Contributions |
+| Name | GitHub | Roles |
 |------|--------|---------------|
-| Sriram Kumar K | [@zerotwo1910](https://github.com/zerotwo1910) | Project coordination, Data preprocessing, Model optimization, GUI implementation, Documentation |
-| Subasree M | [@suba-sree](https://github.com/suba-sree) | Dataset acquisition, Exploratory analysis, Data visualization, Feature importance analysis |
-| Vanidha B | [@vani282005](https://github.com/vani282005) | Feature engineering, Model selection, Hyperparameter tuning, Performance metrics |
-| Shanthini S | [@shanthini1204](https://github.com/shanthini1204) | Neural network implementation, Cross-validation, Testing procedures, GUI design |
+| Sriram Kumar K | [@zerotwo1910](https://github.com/zerotwo1910) | Lead Developer and Machine Learning Engineer |
+| Subasree M | [@suba-sree](https://github.com/suba-sree) | Front-End Developer and UI/UX Designer |
+| Vanidha B | [@vani282005](https://github.com/vani282005) | Data Visualization Specialist |
+| Shanthini S | [@shanthini1204](https://github.com/shanthini1204) | Data Engineer and Backend Developer |
 
 ## License
 
