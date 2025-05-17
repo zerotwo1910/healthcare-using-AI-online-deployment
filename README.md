@@ -222,13 +222,13 @@ The models are trained on scaled features, with categorical variables one-hot en
 The application generates the following visualizations:
 | Visualization | Screenshot |
 |-------------|------------|
-| Model Metrics | ![Main Interface](Screenshots/main_interface.png) |
-| ROC Curve | ![EDA Tab](Screenshots/eda_tab.png) |
-| Precision-Recall Curve | ![Preprocess & Data Modeling](Screenshots/preprocess_and_datamodeling.png) |
-| Confusion Matrix | ![ROC Visual](Screenshots/roc_visualization.png) |
-| Feature Importance | ![Confusion Matrix](Screenshots/confusion_matrix.png) |
-| Correlation Matrix | ![Correlation Matrix](Screenshots/correlation_martix.png) |
-| Patient Distribution | ![Feature Importance](Screenshots/feature_importance.png) |
+| Model Metrics | ![Model Metrics](screenshots/model_metrics.png) |
+| ROC Curve | ![ROC Curve](screenshots/roc_curve.png) |
+| Precision-Recall Curve | ![Precision-Recall Curve](screenshots/precision_recall_curve.png) |
+| Confusion Matrix | ![Confusion Matrix](screenshots/confusion_matrix.png) |
+| Feature Importance | ![Feature Importance](screenshots/feature_importance.png) |
+| Correlation Matrix | ![Correlation Matrix](screenshots/correlation_matrix.png) |
+| Patient Distribution | ![Patient Distribution](screenshots/patient_distribution.png) |
 
 ## Limitations
 
